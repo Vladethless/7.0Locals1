@@ -3843,6 +3843,7 @@ img{
 
 .call-to-action-section{
 	position:relative;
+	z-index: 100;
 }
 
 .call-to-action-section .inner-container{

@@ -1073,6 +1073,9 @@ img{
 	position:relative;
 	margin-bottom:40px;
 }
+.numbers{
+	width: 20%;
+}
 
 .sec-title .title{
     position: relative;
@@ -1087,12 +1090,13 @@ img{
 	font-family: 'Arimo', sans-serif;
 }
 
-.sec-title h2{
+.sec-title h1{
 	position: relative;
     color: #222222;
     font-weight: 700;
     line-height: 1.3em;
     text-transform: capitalize;
+	font-size: 36px;
 }
 
 .sec-title .text{
@@ -5662,7 +5666,7 @@ img{
 
 .services-section-two{
 	position:relative;
-	padding:95px 0px 110px;
+	padding:200px 0px 110px;
 }
 
 .services-section-two .inner-container{

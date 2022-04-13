@@ -3652,7 +3652,7 @@ img{
 	top:0px;
 	right:0px;
 	bottom:0px;
-	background-color:rgba(0,0,0,0.40);
+	background-color: rgba(0,0,0,0.80);
 }
 
 .services-section .owl-nav{
@@ -7125,7 +7125,7 @@ img{
 	top:0px;
 	right:0px;
 	bottom:0px;
-	background-color:rgba(0,0,0,0.90);
+	background-color:rgba(0,0,0,0.80);
 }
 
 .about-section-two .content-column{
@@ -7802,7 +7802,7 @@ img{
 	bottom:0px;
 	top:0px;
 	right:0px;
-	background-color:rgba(0,0,0,0.80);
+
 }
 
 .page-title .auto-container{

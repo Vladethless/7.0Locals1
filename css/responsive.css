@@ -1232,13 +1232,23 @@
 	.header-top-two .top-left{
 		width:100%;
 	}
-	
+	.reason-section .image-column .image img{
+		display: none;
+	}
 	.rtl .call-to-action-section .inner-container{
 		padding-right:15px;
 	}
-	
+	.services-section-two{
+		padding: 0;
+	}
+	.reason-section{
+		padding: 0;
+	}
 	h1{
 		font-size:30px;
+	}
+	.main-slider-two p{
+		font-size:22px;
 	}
 	
 	.main-slider-two h1{
@@ -1348,11 +1358,27 @@
 	h1{
 		font-size:24px;
 	}
-	
+	.main-slider-two p{
+		font-size:20px;
+	}
+	.main-header .options-box .btn-box .theme-btn{
+		margin-left: 110px;
+	}
 	.main-slider-three h1{
 		font-size:20px;
 	}
-	
+	.video-section .inner-container .video-box{
+		display: none;
+	}
+	.pt_110{
+		padding-top: 0;
+	}
+	.about-section-two .image-column .inner-column img{
+		height: 100%;
+	}
+	.video-section{
+		display: flex;
+	}
 	.main-slider .text{
 		font-size:12px;
 	}
@@ -1366,12 +1392,12 @@
 	}
 	
 	.main-slider-two .text{
-		font-size:14px;
+		font-size:15px;
 		line-height:1.5em;
 	}
 	
 	.main-slider-three .text{
-		font-size:14px;
+		font-size:10px;
 		line-height:1.5em;
 	}
 	

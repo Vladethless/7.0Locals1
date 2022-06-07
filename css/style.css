@@ -1091,12 +1091,10 @@ img{
 }
 
 .sec-title h1{
-	position: relative;
-    color: #222222;
-    font-weight: 700;
-    line-height: 1.3em;
-    text-transform: capitalize;
-	font-size: 36px;
+	font-weight: 600;
+    color: #f7941d;
+    margin-top: 16px;
+    font-size: 25px;
 }
 
 .sec-title .text{
